@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "hanasaka",
+  "base_artist": "hockrockb",
+  "createdAt": "2026-01-13T16:24:41.164237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HANASAKA STEP (feat. wotoha)",
+      "artist": "BotchiBoromaru",
+      "has_synced": true,
+      "path": "select/01_HANASAKA_STEP_(feat._wotoha)_BotchiBoromaru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hanasaka Uta",
+      "artist": "Isurugi Futaba (CV: Teru Ikuta)",
+      "has_synced": true,
+      "path": "select/02_Hanasaka_Uta_Isurugi_Futaba_(CV__Teru_Ikuta).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HANASAKA STEP",
+      "artist": "BotchiBoromaru",
+      "has_synced": true,
+      "path": "select/03_HANASAKA_STEP_BotchiBoromaru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hanasaka Saisai",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": true,
+      "path": "select/04_Hanasaka_Saisai_放課後クライマックスガールズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hanasaka",
+      "artist": "hockrockb",
+      "has_synced": false,
+      "path": "select/pl_01_hanasaka_hockrockb.txt"
+    }
+  ]
+}
